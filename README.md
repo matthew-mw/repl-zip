@@ -9,11 +9,11 @@ As of now, The zip function does not currently work for classes within an organi
 
 To use this script copy the [Raw source](https://raw.githubusercontent.com/matthew-mw/repl-zip/main/command.sh), visit the search bar on replit and open the shell.
 
-![Shell](./pictures/shell.png)
+![Shell](./pictures/Shell.png)
 
 Paste the script and execute it.
 
-![Script](./pictures/script.png)
+![Script](./pictures/Script.png)
 
 It might ask you to install the zip package.
 ```console
@@ -23,11 +23,11 @@ If this shows up, enter Y
 
 You should find your zip in the workspace!
 
-![Zip](./pictures/zip.png)
+![Zip](./pictures/Zip.png)
 
 To download the zip, hover over the file, click on the three dots
 
-![Menu](./pictures/menu.png)
+![Menu](./pictures/Menu.png)
 
 Click the download button after clicking on the three dots
 
