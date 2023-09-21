@@ -1,13 +1,15 @@
 # repl-zip
-Simple bash script to download repl.it tasks.
+Simple bash script to zip replit repls for download.
 
-As of now, The zip function does not currently work for classes within an organisation. Therefore, I wrote this simple bash script to speed things up.
+At the time of writing, the "Download as zip" function does not work for classes within an organisation.
+When students press this button, they are shown a 404 screen.
+Therefore, I wrote this simple bash script to speed things up and spare students from manually downloading many files.
 
 [Source](/command.sh)
 
 # Usage
 
-To use this script copy the [Raw source](https://raw.githubusercontent.com/matthew-mw/repl-zip/main/command.sh), visit the search bar on replit and open the shell.
+To use this script, copy the [Raw source](https://raw.githubusercontent.com/matthew-mw/repl-zip/main/command.sh), visit the search bar on replit and open the shell.
 
 ![Shell](./pictures/Shell.png)
 
